@@ -1,0 +1,22 @@
+# Carpeta de datos
+data/
+
+# Archivos de datos
+*.xlsx
+*.csv
+*.zip
+
+# Bases de datos locales
+*.duckdb
+*.db
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
